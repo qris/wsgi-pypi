@@ -1,4 +1,4 @@
 -e git+git://github.com/aptivate/dye.git#egg=dye
-git+http://bitbucket.org/micktwomey/pypicache.git#egg=pypicache
+git+https://bitbucket.org/micktwomey/pypicache.git#egg=pypicache
 requests==2.0.1
 Flask==0.10.1
