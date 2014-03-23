@@ -1,4 +1,4 @@
--e git+git://github.com/qris/dye.git@2ca0c51ef263a19ed8abcca537c58edd5b9846a1#egg=dye
+-e git+git://github.com/qris/dye.git@e5bf2cfbe2df2fbe898639e8b0c501ea40fc351a#egg=dye
 git+https://bitbucket.org/micktwomey/pypicache.git#egg=pypicache
 requests==2.0.1
 Flask==0.10.1
