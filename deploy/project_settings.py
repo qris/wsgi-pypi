@@ -19,7 +19,7 @@ django_apps = []
 #repository = 'https://svn.aptivate.org/svn/' + project_name + '/dev'
 
 repo_type = "git"
-repository = 'git://github.com/aptivate/wsgi-pypi.git'
+repository = 'git://github.com/qris/wsgi-pypi.git'
 #repository = 'git@github.com:aptivate/' + project_name + '.git'
 
 ##################################################################
