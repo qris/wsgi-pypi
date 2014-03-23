@@ -12,6 +12,7 @@ django/website/search_index
 django/website/static
 django/website/uploads
 reports/*
+virtualenv
 .DS_Store
 .pydevproject
 *.sql
